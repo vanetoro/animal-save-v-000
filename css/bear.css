@@ -8,5 +8,10 @@ html {
   right: 0;
 }
 
+@media on screen when (min-width:1300) {
+    #bear{
+      left: 800px;
+    }
+}
 /* Write your solution here */
 
